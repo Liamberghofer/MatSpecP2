@@ -12,6 +12,13 @@ Detta program som du skriver här ska fungera så att du skapar en funktion `get
 import numpy as np
 
 def get_element(mat_A, mat_B, i, j):
+   if(A@B) = None:
+    print("Matrismultiplikationen är ej genomförbar.")
+   
+   
+   
+   
+   
     '''
     Parametrar:
         mat_A och mat_B: matriser av typen ndarray
